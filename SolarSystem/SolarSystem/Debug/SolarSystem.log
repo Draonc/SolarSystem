@@ -1,0 +1,17 @@
+﻿  SolarSystem.cpp
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(25): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(75): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(76): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(82): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(83): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\candice\source\repos\solarsystem\solarsystem\solarsystem.cpp(168): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  SolarSystem.vcxproj -> C:\Users\Candice\source\repos\SolarSystem\Debug\SolarSystem.exe
+  SolarSystem.vcxproj -> C:\Users\Candice\source\repos\SolarSystem\Debug\SolarSystem.pdb (Partial PDB)
